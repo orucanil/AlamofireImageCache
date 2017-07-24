@@ -6,7 +6,7 @@ Using AlamofireImage and ANWCacheManager, you can cache images while downloading
 Installation
 --------------
 
-To use the AlamofireImageCache in an app, install AlamofireImage and just drag the AlamofireImageCache files in Classes folder (demo files and assets are not needed) into your project.
+To use the AlamofireImageCache in an app, install AlamofireImage and just drag the AlamofireImageCache files in Classes folder (demo files and assets are not needed) into your project. ( https://github.com/Alamofire/AlamofireImage ). Add "#import <CommonCrypto/CommonCrypto.h>" into Bridging-Header.
 
 
 Properties

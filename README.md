@@ -1,6 +1,6 @@
 # AlamofireImageCache
 
-Using AlamofireImage and ANWCacheManager, you can cache images while downloading images.
+Using AlamofireImage and ANWCacheManager, you can cache images while downloading images. You do not need to download the same picture over and over again during the cache age. Easy to use.
 
 
 Installation
